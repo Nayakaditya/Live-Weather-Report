@@ -1,0 +1,19 @@
+{
+  "name": "weather-report",
+  "version": "1.0.0",
+  "description": "You can get real weather report of any country any city of the world.",
+  "main": "app.js",
+  "scripts": {
+    "test": "weatherapi"
+  },
+  "keywords": [
+    "weather-report"
+  ],
+  "author": "Aditya nayak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
